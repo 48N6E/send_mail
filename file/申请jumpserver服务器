@@ -1,0 +1,32 @@
+<table class="wrapped confluenceTable" style="text-decoration:none;border:1px solid #c1c7d0;">
+	<tbody>
+		<tr class="chose">
+			<td class="confluenceTd" style="text-decoration:none;border:1px solid #c1c7d0;">
+				服务器
+			</td>
+			<td class="confluenceTd" style="text-decoration:none;border:1px solid #c1c7d0;">
+				原因
+			</td>
+			<td class="confluenceTd" style="text-decoration:none;border:1px solid #c1c7d0;">
+				权限
+			</td>
+			<td colspan="1" rowspan="1" class="confluenceTd" style="text-decoration:none;border:1px solid #c1c7d0;">
+				申请人员
+			</td>
+		</tr>
+		<tr>
+			<td class="confluenceTd" style="text-decoration:none;border:1px solid #c1c7d0;">
+				demo
+			</td>
+			<td class="confluenceTd" style="text-decoration:none;border:1px solid #c1c7d0;">
+				demo平台
+			</td>
+			<td class="confluenceTd" style="text-decoration:none;border:1px solid #c1c7d0;">
+				<span>普通权限、sudo权限</span>
+			</td>
+			<td colspan="1" rowspan="1" class="confluenceTd" style="text-decoration:none;border:1px solid #c1c7d0;">
+				<a href="mailto:yee.zhang@yunlsp.com" class="external-link">demo@yunlsp.com</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
